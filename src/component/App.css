@@ -1,0 +1,77 @@
+
+#root{
+  margin-top: 100px;
+  height: 100vh;
+
+}
+.wraper {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  width: 800px;
+  height: 100px;
+  border: solid 1px rgb(250, 171, 1);
+  border-radius: 10px;
+  background: rgba(255, 136, 0, 0.137);
+}
+.count {
+  float: right;
+  margin-right: 20px;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+button {
+  background: transparent;
+  outline: none;
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.cost{
+  margin-top: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.text {
+  float: right;
+  margin-top: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: blue;
+}
+.text2  {
+  margin-left: 20px;
+  float: left;
+  margin-top: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: blue;
+}
+
+span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  padding: 5px 10px;
+  background:  rgba(255, 255, 255, 0.726);
+}
+
+input { 
+  float: left;
+  margin-left: 30px;
+  margin-top: 40px;
+  width: 20px;
+  height: 20px;
+}
+
+.text3 {
+  float: left;
+  margin-top: 42px;
+  margin-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+
+}
+
